@@ -8,6 +8,7 @@
 
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
+3. [Copyright](#copyright)
 
 ## General Info
 ***
@@ -17,3 +18,8 @@ AstroBot is a python-based Discord bot which send a list of near-future astronom
 ***
 A list of technologies used within the project:
 * [Python 3.X](https://www.python.org) 
+
+
+## Copyright
+***
+If you want to quote this code, you might use the copyright : © erwann-rch 2022
