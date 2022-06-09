@@ -9,7 +9,7 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 
-### General Info
+## General Info
 ***
 AstroBot is a python-based Discord bot which send a list of near-future astronomical events of coordinates or city in a PDF. These informations are retrieved from the RSS feed of [In-The-Sky.org](https://in-the-sky.org).
 
