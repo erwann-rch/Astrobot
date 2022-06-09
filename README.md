@@ -22,4 +22,4 @@ A list of technologies used within the project:
 
 ## Copyright
 ***
-If you want to quote this code, you might use the copyright : © erwann-rch 2022
+If you want to quote this code, you might use the copyright : **© erwann-rch 2022**
